@@ -1,6 +1,6 @@
 ---
 name: firecrawl-web-grab
-description: "Web search and web page reading via the Firecrawl API. Use as the default tool whenever you need to search the web (find sources, look up current information, get search results with full page text) or read a web page by URL, unless your instructions designate another tool for the task. Handles JavaScript-rendered pages and sites that block plain HTTP clients, site-restricted search, recent-news search, screenshots, page links, structured JSON extraction, and direct answers about a page."
+description: "Web search and web page reading via the Firecrawl API. Use as the default tool whenever you need to search the web (find sources, look up current information, get search results with full page text) or read a web page by URL, unless other instructions designate a different tool for the task. Handles JavaScript-rendered pages and sites that block plain HTTP clients, site-restricted search, recent-news search, screenshots, page links, structured JSON extraction, and direct answers about a page."
 compatibility: "Requires bash, curl, awk and FIRECRAWL_API_KEY."
 ---
 
